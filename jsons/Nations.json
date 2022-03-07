@@ -116,7 +116,7 @@
         },
 	{
 		"name": "Colombia",
-		"leaderName": "Paula Santander",
+		"leaderName": "Mirabal Madrigal",
 		"adjective": ["Colombians"],
 	        "outerColor": [245,217,0],
 		"innerColor": [1,57,150],
@@ -129,7 +129,7 @@
 		"startIntroPart2": "President Santander, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
 
 
-		"introduction":  "Greetings! I'm Santander. This is Colombia, my wordeful land. Want a coffee?",
+		"introduction":  "Greetings! I'm Mirabel. This is Colombia, my wonderful home. Bring it in a hug?",
 		"declaringWar": "We must do this, to free your opressed people from your hands.",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
 		"afterPeace": "The path to peace is often long and tortuous, but the reward is always invaluable",
@@ -149,7 +149,7 @@
 		"uniqueName": "Colombian Coffee Region & Paramos",
 		"uniques": ["Double quantity of [Coffee] produced","[+6 Food] from every [Mountain]"],
 
-		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
+		"cities": ["Encanto","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
 				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
